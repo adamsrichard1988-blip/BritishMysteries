@@ -1,8 +1,7 @@
 # BritishMysteries
+#This is an online archive for BM documents.
 
-This is an online archive for BM documents.
-
-The intention is for this to capture as much BM material as people have, this includes elements of development which proved to be 'dead ends'.
+#The intention is for this to capture as much BM material as people have, this includes elements of development which proved to be 'dead ends'.
 
 Documents which are considered BM sympathetic can also be stored here.
 
