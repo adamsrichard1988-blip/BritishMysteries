@@ -10,4 +10,4 @@ If people wish to provide some additional thoughts with submitted documents I'll
 
 This is only to be shared with householders and those who have a long lasting interest and engagement in BM.
 
-With that being said this link is public and judgement or appropriateness will be required by those sharing the link.
+With that being said this link is public and judgement of appropriateness will be required by those sharing the link.
